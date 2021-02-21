@@ -9,5 +9,5 @@ const Areal4972 = {
           Coding skill [100/100]
         }
   Thanks for reading README.md
-}
-``` //Thanks for all of your supports <3
+} //Thanks for all of your supports <3
+```
