@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Areal4972/Areal4972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Areal4972 = {
+  Company [Nitro X]
+  Gender [Male]
+  Age [23]
+  Hobby [Coding]
+  Stats {
+          Money per day [100$]
+          Coding skill [100/100]
+        }
+  Thanks for reading README.md
+}
+```
