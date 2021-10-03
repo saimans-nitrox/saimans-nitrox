@@ -1,5 +1,5 @@
 ```javascript
-const Areal4972 = {
+const Areal = {
   Company [Nitro X, Saimans®]
   Gender [Male]
   Age [24]
