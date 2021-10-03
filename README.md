@@ -1,8 +1,8 @@
 ```javascript
 const Areal4972 = {
-  Company [Nitro X]
+  Company [Nitro X, Saimans®]
   Gender [Male]
-  Age [23]
+  Age [24]
   Hobby [Coding, Web Designing]
   Stats {
           Money per day [100$]
